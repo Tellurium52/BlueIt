@@ -1,2 +1,2 @@
 # BlueIt
-Forum website
+Forum website that started as a school project.
